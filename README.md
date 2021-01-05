@@ -1,4 +1,4 @@
-![GitHub metrics](https://metrics.lecoq.io/BinodKafle?pagespeed=1&languages=1&isocalendar=1&gists=1&followup=1&pagespeed.detailed=false&isocalendar.duration=full-year)
+![GitHub metrics](https://metrics.lecoq.io/BinodKafle?template=classic&followup=1&isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=Asia%2FKatmandu)
 
 ### Hi there 👋, I am Binod Kafle
 
