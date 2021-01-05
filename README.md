@@ -4,7 +4,7 @@
 
 Skills: __GOLANG/ PYTHON/ DJANGO/ REACT/ GCP__
 
-- 📝 I regulary write articles on https://medium.com/@dipesh.dulal
+- 📝 I regulary write articles on [Medium](https://kaflebinod.medium.com/)
 
 - 🔭 I’m currently working on __GOLANG, GIN, REACT__
 
