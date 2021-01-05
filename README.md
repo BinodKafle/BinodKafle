@@ -10,9 +10,7 @@ Skills: __GOLANG/ PYTHON/ DJANGO/ REACT/ GCP__
 
 - 💬 Ask me about __Python, Django, GO, React__
 
-- 📫 How to reach me: **mebinod50@gmail.com**
-
-[![Twitter Follow](https://img.shields.io/twitter/follow/floydbnod?label=Follow&style=social)](bit.ly/floydbnodtwitter)
+- 📫 How to reach me: [![Twitter Follow](https://img.shields.io/twitter/follow/floydbnod?label=Follow&style=social)](bit.ly/floydbnodtwitter) | **mebinod50@gmail.com**
 
 <table style="border: 1px solid #CCC; border-collapse: collapse;">
   <tbody style="border: none;">
