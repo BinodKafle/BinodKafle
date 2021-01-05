@@ -1,4 +1,4 @@
-![GitHub metrics] (https://metrics.lecoq.io/BinodKafle?pagespeed=1&languages=1&isocalendar=1&gists=1&followup=1&pagespeed.detailed=false&isocalendar.duration=full-year)
+![GitHub metrics](https://metrics.lecoq.io/BinodKafle?pagespeed=1&languages=1&isocalendar=1&gists=1&followup=1&pagespeed.detailed=false&isocalendar.duration=full-year)
 
 ### Hi there 👋, I am Binod Kafle
 
@@ -17,7 +17,6 @@ Skills: __GOLANG/ PYTHON/ DJANGO/ REACT/ GCP__
     <tr valign="top">
       <td width="50%" align="center" style="border: none;">
         <img height="300px" src="https://github-readme-stats.vercel.app/api?username=BinodKafle&show_icons=true">
-        
         <p>My trophies</p>
         <img src="https://github-profile-trophy.vercel.app/?username=BinodKafle">
         <img src="https://gpvc.arturio.dev/BinodKafle">
