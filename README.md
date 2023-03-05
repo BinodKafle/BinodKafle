@@ -1,22 +1,26 @@
 <h1 align="center">प्रणाम 🙏 Hi there 👋, It's me Binod Kafle</h1>
 <h3 align="center">Software Engineer from the Everest ⛰️🇳🇵</h3>
 
+&nbsp;
+&nbsp;
 
 - 📝 I regulary write articles on [Medium](https://kaflebinod.medium.com/)
 
-- 🔭 I’m currently working on __GOLANG, GIN, REACT__
+- 🔭 I’m currently working on __PYTHON GOLANG, REACT__
 
 - 💬 Ask me about __Python, Django, GO, React__
 
 - 📫 How to reach me: **mebinod50@gmail.com**
 
-<p align="left">
-<h3 align="left">Connect with me:</h3>
+&nbsp;
+
+<h3 align="left" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 50px;">Connect with me 🤝 </h3>
 <a href="https://twitter.com/FloydBnod" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="binodkafle" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/4323824/binod-kafle" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="7448955" height="30" width="40" /></a>
 <a href="https://www.facebook.com/floyd.bnod" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="binodkafle" height="30" width="40" /></a>
 <a href="https://medium.com/@kaflebinod" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@kafle.binod" height="30" width="40" /></a>
-</p>
+
+&nbsp;
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -26,8 +30,8 @@
 <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
 <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
 <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
-<a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> 
-<a href="https://www.djangoproject.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" alt="django" width="40" height="40"/> </a>
+<a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" alt="flask" width="40" height="40"/> </a> 
+<a href="https://www.djangoproject.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="django" width="40" height="40"/> </a>
 <a href="https://laravel.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a>
 <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
 <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
@@ -47,18 +51,17 @@
 <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
 <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
 <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> 
-  
+
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
 
 <table style="border: 1px solid #CCC; border-collapse: collapse;">
   <tbody style="border: none;">
     <tr valign="top">
       <td width="50%" align="center" style="border: none;">
         <img height="300px" src="https://github-readme-stats.vercel.app/api?username=BinodKafle&show_icons=true">
-        <p>My trophies</p>
-        <img src="https://github-profile-trophy.vercel.app/?username=BinodKafle">
-        <img src="https://gpvc.arturio.dev/BinodKafle">
-        <img src="https://badges.pufler.dev/years/BinodKafle">
-        <img src="https://badges.pufler.dev/repos/BinodKafle">
       </td>
     </tr>
   </tbody>
