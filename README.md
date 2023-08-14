@@ -56,13 +56,3 @@
 &nbsp;
 &nbsp;
 &nbsp;
-
-<table style="border: 1px solid #CCC; border-collapse: collapse;">
-  <tbody style="border: none;">
-    <tr valign="top">
-      <td width="50%" align="center" style="border: none;">
-        <img height="300px" src="https://github-readme-stats.vercel.app/api?username=BinodKafle&show_icons=true">
-      </td>
-    </tr>
-  </tbody>
-</table>
